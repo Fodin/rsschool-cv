@@ -1,16 +1,19 @@
-Fedor Odintsov
+# Fedor Odintsov
 
-Contacts:
-E-mail: fadmin@list.ru
-Telegram: @Fodinsoft
+## Contacts:
+- **_E-mail:_** fadmin@list.ru
+- **_Telegram:_** @Fodinsoft
 
-Objectives:
+## Objectives:
 I want to become a web-developer. I have analytical mind-set, understaning of progamming and I feel the beauty of a code.
 
-Skills:
-I experienced in: Basic, Assembler (Z-80, PDP-11), C, C++, Pascal, VBA, Python, Lua, JS, Bash, SQL, HTML, CSS. Frameworks: jQuery, Bootstrap.
+## Skills:
+**I experienced in:** Basic, Assembler (Z-80, PDP-11), C, C++, Pascal, VBA, Python, Lua, JS, Bash, SQL, HTML, CSS. 
 
-Code examples:
+**Frameworks:** jQuery, Bootstrap.
+
+## Code example:
+```
 	export class ComplexNumber {
 		constructor(real, imag = 0){
 			[this.real, this.imag] = [real, imag];
@@ -49,13 +52,24 @@ Code examples:
 			return new ComplexNumber(Math.exp(a) * Math.cos(b), Math.exp(a) * Math.sin(b));
 		}
 	}
+```
 
-Work experience:
+## Work experience:
 System administrator, polygraphic designer. I've never worked as a programmer except for freelance
 
-Education:
-Yuzhno-Sakhalinsk State Institute, Bachelor of Mathematics and Informatics.
-I studied at Coursera.org, Stepik.org (I have obtained gold certificates in the following courses: "Python programming", "C/C++ multithread programming", "Linux Basic progamming", "C++ progamming").
+## Education:
+**Yuzhno-Sakhalinsk State Institute,** Bachelor of Mathematics and Informatics.
 
-English:
-I can read technical docs without dictionary. I can write, speak and understand listening a little bit worse. My level is between A2 and B1.
+I studied at [Coursera.org](https://www.coursera.org), [Stepik.org](https://stepik.org). 
+
+I have obtained gold certificates in the following courses: 
+
+1. "Python programming"
+1. "C/C++ multithread progamming"
+1. "Linux Basic progamming"
+1. "C++ progamming"
+
+## English:
+I can read technical docs without dictionary. I can write, speak and understand listening a little bit worse. 
+
+My level is between A2 and B1.
