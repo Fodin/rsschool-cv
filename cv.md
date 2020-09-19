@@ -1,24 +1,24 @@
-Федор Одинцов
+Fedor Odintsov
 
-Контакты:
+Contacts:
 E-mail: fadmin@list.ru
 Telegram: @Fodinsoft
 
-О себе:
-Хочу стать веб-разработчиком. Обладаю для этого аналитическим складом ума, пониманием, что такое программирование и осознаю красоту кода.
+Objectives:
+I want to become a web-developer. I have analytical mind-set, understaning of progamming and I feel the beauty of a code.
 
-Навыки:
-В разное время писал понемногу на языках Basic, Ассемблер (Z-80, PDP-11), C, C++, Pascal, VBA, Python, Lua, JS, Bash, SQL, HTML, CSS. Фреймворки jQuery, Bootstrap.
+Skills:
+I experienced in: Basic, Assembler (Z-80, PDP-11), C, C++, Pascal, VBA, Python, Lua, JS, Bash, SQL, HTML, CSS. Frameworks: jQuery, Bootstrap.
 
-Примеры кода:
-Позже сделаю
+Code examples:
+...Will be later...
 
-Опыт работы:
-Сисадмин, дизайнер полиграфии. Программистом никогда не работал, кроме фриланса.
+Work experience:
+System administrator, polygraphic designer. I've never worked as a programmer except for freelance
 
-Образование:
-Южно-Сахалинский Государственный Педагогический Институт, специальность учитель математики-информатики.
-Занимался на Coursera.org, Stepik.org (сертификаты с отличием по курсам: "Программирование на Python", "Многопоточное программирование на С/С++", "Основы программирования для Linux", "Программирование на языке C++").
+Education:
+Yuzhno-Sakhalinsk State Institute, Bachelor of Mathematics and Informatics.
+I studied at Coursera.org, Stepik.org (I have obtained gold certificates in the following courses: "Python programming", "С/С++ multithread progamming", "Linux Basic progamming", "C++ progamming").
 
-Английский язык:
-Свободно читаю техническую литературу без словаря. Пишу, говорю и воспринимаю на слух хуже. Уровень приблизительно А2.
+English:
+I can read technical docs without dictionary. I can write, speak and understand listening a little bit worse. My level is between А2 and B1.
